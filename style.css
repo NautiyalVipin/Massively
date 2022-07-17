@@ -78,7 +78,7 @@ body {
   align-items: center;
   position: relative;
   background-image: linear-gradient(rgba(30, 37, 45, 0.8), rgba(33, 41, 49, 0.8)),
-  url("./assets/images/bg.jpg");
+  url("./bg.jpg");
   background-color: #212931;
   background-position: top;
     background-size:contain;
